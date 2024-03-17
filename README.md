@@ -1,7 +1,14 @@
-# DevOps Overview
+# Jenkins-Sonarqube-Docker Project Overview
 
 ## Overview
-Our DevOps project is designed to optimize software development processes through the implementation of best practices, automation, and efficient infrastructure management. By fostering collaboration between development and operations teams, our goal is to accelerate the delivery of high-quality software while maintaining reliability and scalability.
+
+The project is a comprehensive implementation aimed at streamlining the software development lifecycle through automation, infrastructure as code, and continuous integration/continuous deployment (CI/CD) practices. It leverages various tools and technologies to achieve efficient code delivery, improved code quality, and enhanced deployment processes.
+
+## Objectives:
+- Automate the deployment process to reduce manual intervention and minimize deployment errors.
+- Enhance code quality through automated code analysis and testing.
+- Enable continuous integration and continuous deployment to achieve rapid and reliable software delivery.
+- Provision infrastructure using Terraform to ensure consistency, scalability, and maintainability.
 
 ## Project Components
 
