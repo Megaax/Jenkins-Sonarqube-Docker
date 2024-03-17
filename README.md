@@ -1,6 +1,6 @@
 # Jenkins-Sonarqube-Docker Project Overview
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.fiverr.com%2Fadnanakhtar912%2Fbe-your-devops-engineer-with-aws-and-linux-expertise&psig=AOvVaw3PQvnIfPDOBQ0_7DIfG75E&ust=1710772843638000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOj1ptDD-4QDFQAAAAAdAAAAABAI
+![Project-Overview](image.png)
 
 ## Overview
 
